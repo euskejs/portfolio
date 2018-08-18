@@ -1,2 +1,3 @@
-# portfolio
-This is my professional portfolio
+# Kejia Shi's portfolio
+
+This is my professinal portfolio.
